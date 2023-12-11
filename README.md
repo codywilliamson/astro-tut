@@ -1,3 +1,5 @@
+Followed along here: https://docs.astro.build/en/tutorial/0-introduction/
+
 # Astro Starter Kit: Minimal
 
 ```sh
